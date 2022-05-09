@@ -4,4 +4,4 @@ description: Modern-Blog for Jekyll
 keywords: Modern, Blogging, Fun
 author: Xinyu Feng
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: https://github.com/lyrafeng/lyrafeng.github.io.git"" # the base hostname & protocol for your site
+url: "https://github.com/lyrafeng/lyrafeng.github.io.git" # the base hostname & protocol for your site
