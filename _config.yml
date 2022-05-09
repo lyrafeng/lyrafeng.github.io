@@ -1,7 +1,7 @@
 # Site settings
-title: Modern Blog
-description: Modern-Blog for Jekyll
-keywords: Modern, Blogging, Fun
+title: Xinyu's Website
+description: Xinyu's Website - Jekyll
+keywords: Blogging, Fun
 author: Xinyu Feng
 baseurl: "/blog/" # the subpath of your site, e.g. /blog/
 url: "https://github.com/lyrafeng/lyrafeng.github.io.git" # the base hostname & protocol for your site
